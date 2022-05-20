@@ -1,0 +1,2 @@
+name = "komaf"
+puts name
