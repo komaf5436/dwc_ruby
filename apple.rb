@@ -1,5 +1,5 @@
-# 変数名appleにNaganoを格納
-apple = "Nagano"
+# 変数名appleにYamanashiを格納
+apple = "Ymanashi"
 
 # 値がAomoriだったら
 if apple == "Aomori"
